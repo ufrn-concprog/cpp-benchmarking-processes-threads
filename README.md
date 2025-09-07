@@ -1,6 +1,6 @@
 # Benchmarking Processes and Threads in C++
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg)
+![C++](https://img.shields.io/badge/C++-11%2B-green?logo=c++)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Build](https://img.shields.io/badge/build-manual-lightgrey)
 
