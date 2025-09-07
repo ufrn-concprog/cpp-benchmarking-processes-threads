@@ -1,10 +1,10 @@
 # Benchmarking Processes and Threads in Python
 
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)](https://www.python.org)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Build](https://img.shields.io/badge/build-manual-lightgrey)
 
-This benchmark measures the overhead of creating processes, child processes, and threads in Python. The goal is to demonstrate that creating threads is far more efficient than creating processes.
+This benchmark measures the overhead of creating processes, child processes, and threads in C++. The goal is to demonstrate that creating threads is far more efficient than creating processes.
 
 This project is part of the **Concurrent Programming** module at the [Federal University of Rio Grande do Norte (UFRN)](https://www.ufrn.br), Natal, Brazil.
 
@@ -21,7 +21,8 @@ The benchmark currently runs for only one. Future work involves modifying the im
 ```
 .
 ├── src/                # Source code
-│   ├── benchmark.py    # Benchmark implementation
+│   ├── benchmark.cpp   # Benchmark implementation
+└── Makefile            # Makefile for compilation
 └── README.md
 ```
 
