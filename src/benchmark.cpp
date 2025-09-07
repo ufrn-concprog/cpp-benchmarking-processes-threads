@@ -145,7 +145,7 @@ int main(int argc, char* argv[]) {
         }
     #endif
 
-    std::cout << "Benchmarking creation and joining of threads vs processes:\n\n";
+    std::cout << "Benchmarking creation of processes vs threads:\n\n";
 
     benchmark_processes("Processes", NUM_WORKERS, argv[0]);
     benchmark_child_processes("Child Processes", NUM_WORKERS, argv[0]);
