@@ -1,4 +1,4 @@
-# Benchmarking Processes and Threads in Python
+# Benchmarking Processes and Threads in C++
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
